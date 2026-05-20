@@ -1,1 +1,0 @@
-# glp1-calculator
